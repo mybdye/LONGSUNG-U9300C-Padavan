@@ -12,7 +12,8 @@ PS:
 
 ![name](https://github.com/mybdye/LONGSUNG-U9300C-Padavan/blob/master/E0D51A3B-9CA4-4B1B-9370-3522C9E0D63D.png)  
 
-解包工具来自 https://right.com.cn  
-
-部分参考 1. https://blog.csdn.net/IveLee/article/details/79030744  
-2. https://www.jianshu.com/p/c2940e55baee
+参考  
+•https://blog.csdn.net/IveLee/article/details/79030744  
+•https://www.jianshu.com/p/c2940e55baee
+工具  
+•https://right.com.cn  
