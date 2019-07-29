@@ -14,4 +14,5 @@ PS:
 
 解包工具来自 https://right.com.cn  
 
-部分参考 https://blog.csdn.net/IveLee/article/details/79030744
+部分参考 1. https://blog.csdn.net/IveLee/article/details/79030744  
+2. https://www.jianshu.com/p/c2940e55baee
