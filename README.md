@@ -9,7 +9,6 @@ PS:
 
 • 网口速度3G，无线速度4G  
 
-
 ![name](https://github.com/mybdye/LONGSUNG-U9300C-Padavan/blob/master/E0D51A3B-9CA4-4B1B-9370-3522C9E0D63D.png)  
 
 资料参考  
@@ -17,4 +16,4 @@ PS:
 • https://www.jianshu.com/p/c2940e55baee  
 
 工具来自  
-• https://right.com.cn  
+• https://www.right.com.cn/forum/thread-204663-1-3.html
